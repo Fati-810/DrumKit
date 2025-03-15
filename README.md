@@ -13,10 +13,10 @@ The Drum Kit website is an interactive web application that allows users to play
 
 # How To Play Drum Sounds
 
-# Clicking on Buttons: 
+Clicking on Buttons: 
 Click on any drum button displayed on the screen to hear the respective sound.
 
-# Using Keyboard Keys:
+Using Keyboard Keys:
 Press the corresponding keyboard keys (e.g., "A", "S", "D", etc.) to play the drum sounds.
 
 # Experiment and Enjoy!
