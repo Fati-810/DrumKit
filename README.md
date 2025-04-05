@@ -7,7 +7,7 @@ The Drum Kit website is an interactive web application that allows users to play
 
 ✔️Use keyboard keys to play drum sounds.
 
-✔️Smooth and Responsive interaction.
+✔️Smooth and responsive interaction.
 
 ✔️Uses JavaScript to handle events and play audio.
 
