@@ -7,7 +7,7 @@ The Drum Kit website is an interactive web application that allows users to play
 
 ✔️Use keyboard keys to play drum sounds.
 
-✔️Smooth and responsive interaction.
+✔️Smooth and Responsive interaction.
 
 ✔️Uses JavaScript to handle events and play audio.
 
@@ -28,3 +28,6 @@ HTML & CSS: Structures the layout and styles the drum buttons.
 JavaScript: Handles user interactions and plays sound files when buttons are clicked or keys are pressed.
 
 Event Listeners: Detects keypresses and button clicks to trigger the appropriate sound.
+
+# Link: 
+https://fati-810.github.io/DrumKit/
