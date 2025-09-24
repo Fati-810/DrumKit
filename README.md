@@ -1,15 +1,15 @@
 # DrumKit 
-The Drum Kit website is an interactive web application that allows users to play drum sounds by either clicking on the drum buttons on the screen or pressing the corresponding keyboard keys. Each button represents a different drum sound, mimicking a real drum kit.
+The Drum Kit website is an **interactive web application** that allows users to play drum sounds by either clicking on the drum buttons on the screen or pressing the corresponding keyboard keys. Each button represents a different drum sound, **mimicking** a real drum kit.
 
 # Features:
 
-✔️Play sounds by clicking on the drum kit buttons.
+🥁Play sounds by clicking on the drum kit buttons.
 
-✔️Use keyboard keys to play drum sounds.
+⌨️Use keyboard keys to play drum sounds.
 
-✔️Smooth and responsive interaction.
+⚡Smooth and responsive interaction.
 
-✔️Uses JavaScript to handle events and play audio.
+🧠Uses JavaScript to handle events and play audio.
 
 # How To Play Drum Sounds
 
