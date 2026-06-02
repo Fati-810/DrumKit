@@ -23,11 +23,11 @@ Press the corresponding keyboard keys (e.g., "A", "S", "D", etc.) to play the dr
 Try different key combinations to create beats and have fun playing virtual drums. 🎵🥁
 
 ## Technical Overview: (Behind the Scenes)
-HTML & CSS: Structures the layout and styles the drum buttons.
+**HTML & CSS:** Structures the layout and styles the drum buttons.
 
-JavaScript: Handles user interactions and plays sound files when buttons are clicked or keys are pressed.
+**JavaScript:** Handles user interactions and plays sound files when buttons are clicked or keys are pressed.
 
-Event Listeners: Detects keypresses and button clicks to trigger the appropriate sound.
+**Event Listeners:** Detects keypresses and button clicks to trigger the appropriate sound.
 
 ## Preview: 
 https://fati-810.github.io/DrumKit/
@@ -35,9 +35,9 @@ https://fati-810.github.io/DrumKit/
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
-Developer: Fatimah Ali
-Website: fatimahdigitaledge.com
-GitHub: github.com/fati-810
+**Developer:** *Fatimah Ali*  
+**Website:** fatimahdigitaledge.com  
+**GitHub:** github.com/fati-810
 
 ## License:
 This project is for educational and portfolio purposes.
